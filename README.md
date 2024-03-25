@@ -37,4 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-## 
+## External pakages I use in this project:-
+1) npm install @clerk/nextjs
+2) @uploadthing/react
+3) mongoose
+4) svix
+5) uploadthing
+6) tailwind css
+
